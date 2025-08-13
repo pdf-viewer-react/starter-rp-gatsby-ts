@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Gatsby and TypeScript
 
-[![Open in Codespace](/src/images/codespace-icon.png)](https://sturdy-funicular-g45gq6gwx9xwhvxx9.github.dev/)
+[Open example in codespace](https://sturdy-funicular-g45gq6gwx9xwhvxx9.github.dev/)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Gatsby and TypeScript. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
